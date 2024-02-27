@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78df7d69-7e90-407f-a63c-1411b91cf755" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module6lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task5.java" afterDir="false" />
-    </list>
+    <list default="true" id="78df7d69-7e90-407f-a63c-1411b91cf755" name="Changes" comment="2:01pm 2/27/2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1709058204262</updated>
     </task>
+    <task id="LOCAL-00001" summary="2:01pm 2/27/2024">
+      <created>1709060490446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709060490446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +107,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2:01pm 2/27/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="2:01pm 2/27/2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

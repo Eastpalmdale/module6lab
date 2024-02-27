@@ -12,16 +12,37 @@ public class task5 {
         boolean done = false;
         //loop start
         do {
-            System.out.println("Please enter your height.");
 
+            System.out.println("Please enter your height.");
             if (in.hasNextInt()) {
 
                 userHeight = in.nextInt();
-            } System.out.println("Please enter your width.");
+                done = true;
+            }
+            else {
+                trash = in.nextLine();
+                System.out.println("Please enter numbers only");
+            }
+
+        } while (!done);
+        done = false;
+        do {
+
+            System.out.println("Please enter your width.");
             if (in.hasNextDouble()) {
 
                 userWidth = in.nextInt();
+                done = true;
             }
+            else {
+                trash = in.nextLine();
+                System.out.println("Please enter numbers only");
+            }
+
+        } while (!done);
+        done = false;
+        do {
+
             System.out.println("Please enter your cost per square foot of material.");
             if (in.hasNextDouble()) {
 
@@ -32,6 +53,7 @@ public class task5 {
                 trash = in.nextLine();
                 System.out.println("Please enter numbers only");
             }
+
         } while (!done);
     }
 }
