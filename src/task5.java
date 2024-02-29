@@ -8,6 +8,7 @@ public class task5 {
         double userWidth = 0;
         double userCost = 0;
         double totalCost = 0;
+        double userArea=0;
         String trash;
         boolean done = false;
         //loop start
@@ -55,5 +56,8 @@ public class task5 {
             }
 
         } while (!done);
+        userArea = userHeight * userWidth;
+        totalCost = userCost * userArea;
+        System.out.println("Your final cost for "+userArea+" square feet is "+totalCost+" dolllars");
     }
 }
